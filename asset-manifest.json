@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bad-bank/static/css/main.9e1d269d.css",
+    "main.js": "/bad-bank/static/js/main.cd53bd37.js",
+    "index.html": "/bad-bank/index.html",
+    "main.9e1d269d.css.map": "/bad-bank/static/css/main.9e1d269d.css.map",
+    "main.cd53bd37.js.map": "/bad-bank/static/js/main.cd53bd37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e1d269d.css",
+    "static/js/main.cd53bd37.js"
+  ]
+}
