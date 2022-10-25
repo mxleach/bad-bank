@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/bad-bank/static/css/main.9e1d269d.css",
-    "main.js": "/bad-bank/static/js/main.81aab985.js",
-    "index.html": "/bad-bank/index.html",
-    "main.9e1d269d.css.map": "/bad-bank/static/css/main.9e1d269d.css.map",
-    "main.81aab985.js.map": "/bad-bank/static/js/main.81aab985.js.map"
+    "main.css": "/maxleach-bankingapp/static/css/main.9e1d269d.css",
+    "main.js": "/maxleach-bankingapp/static/js/main.32d88300.js",
+    "index.html": "/maxleach-bankingapp/index.html",
+    "main.9e1d269d.css.map": "/maxleach-bankingapp/static/css/main.9e1d269d.css.map",
+    "main.32d88300.js.map": "/maxleach-bankingapp/static/js/main.32d88300.js.map"
   },
   "entrypoints": [
     "static/css/main.9e1d269d.css",
-    "static/js/main.81aab985.js"
+    "static/js/main.32d88300.js"
   ]
 }
